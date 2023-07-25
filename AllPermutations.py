@@ -39,3 +39,4 @@ for element in range(len(comList)): #Write each element into the file
     else:
         outFile.write(comList[element])
 outFile.close() #Close the file
+test
